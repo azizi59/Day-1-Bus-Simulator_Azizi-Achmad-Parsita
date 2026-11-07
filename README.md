@@ -109,7 +109,9 @@ Alur kerja yang dipraktikkan:
 5. Lakukan perubahan
 6. Commit dan push lagi
 
-## Inti Materi
-Prompt yang jelas (role, task, context, format) menghasilkan kode AI yang lebih baik, dan Git/GitHub menjaga setiap perubahan pada kode tersebut tetap terlacak, aman, dan bisa dikerjakan bersama.
+## Pengetahuan Baru
+- Tau cara menggunakan github
+- Tau manfaat menggunakan github
 
-Catatan: tujuan pembelajaran menyebut *branch* dan *pull request*, tetapi slide yang diberikan belum membahasnya secara rinci.
+## Pendapat Pribadi
+Acara Day-1 cukup seru & materi ini bermanfaat sebagai modal menjadi developer yang bisa memanage pengembangan projek nya dengan baik.
